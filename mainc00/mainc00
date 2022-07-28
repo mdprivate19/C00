@@ -1,0 +1,42 @@
+ex00
+
+int	main(void)
+{
+	ft_putchar('h');
+}
+
+ex01
+
+int	main(void)
+{
+	ft_print_alphabet();
+}
+
+ex02
+
+int	main(void)
+{
+	ft_print_reverse_alphabet();
+}
+
+ex03
+
+int	main(void)
+{
+	ft_print_numbers();
+}
+
+ex04
+
+int	main(void)
+{
+	ft_is_negative(-2);
+	return (0);
+}
+
+ex05
+
+int	main(void)
+{
+	ft_print_comb();
+}
